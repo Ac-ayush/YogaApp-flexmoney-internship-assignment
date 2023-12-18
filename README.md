@@ -8,7 +8,7 @@ A web application for yoga classes was to be created as part of a FlexMoney assi
 
 ### Home Page
 
-![](./Home.png)
+<img src="./Home.png" alt="Home">
 
 ### Enroll Page
 
