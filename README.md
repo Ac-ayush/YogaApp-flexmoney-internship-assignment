@@ -8,15 +8,15 @@ A web application for yoga classes was to be created as part of a FlexMoney assi
 
 ### Home Page
 
-![home](./Home.png)
+![](./Home.png)
 
 ### Enroll Page
 
-![enroll](./Enroll.png)
+![](./Enroll.png)
 
 ### Success Page
 
-![payment](./Payment.png)
+![](./Payment.png)
 
 ### ER Diagram
 
